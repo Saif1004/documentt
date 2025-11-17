@@ -1,0 +1,22 @@
+{
+  "Booseapp": "Booseapp.yml",
+  "Booseapp.AppCanvas": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.#ctor(System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Circle(System.Int32,System.Boolean)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Clear": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.DrawTo(System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.MoveTo(System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.PenColour": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Reset": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Set(System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Tri(System.Int32,System.Int32)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.WriteText(System.String)": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Xpos": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.Ypos": "Booseapp.AppCanvas.yml",
+  "Booseapp.AppCanvas.getBitmap": "Booseapp.AppCanvas.yml",
+  "Booseapp.Form1": "Booseapp.Form1.yml",
+  "Booseapp.Form1.#ctor": "Booseapp.Form1.yml",
+  "Booseapp.Form1.Dispose(System.Boolean)": "Booseapp.Form1.yml"
+}

@@ -1,0 +1,107 @@
+{
+  "source_base_path": "C:/Users/Saif-/Downloads/documentation-main/document/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Booseapp.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Booseapp.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Booseapp.AppCanvas",
+      "Summary": "<p sourcefile=\"api/Booseapp.AppCanvas.yml\" sourcestartlinenumber=\"1\">Concrete canvas that implements the BOOSE <xref href=\"BOOSE.ICanvas\" data-throw-if-not-resolved=\"false\"></xref> contract\nusing a backing <xref href=\"System.Drawing.Bitmap\" data-throw-if-not-resolved=\"false\"></xref> and <xref href=\"System.Drawing.Graphics\" data-throw-if-not-resolved=\"false\"></xref> context.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Booseapp.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Booseapp.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Booseapp.Form1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Booseapp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Booseapp.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Booseapp",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

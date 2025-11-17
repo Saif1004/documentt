@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: Booseapp
+  commentId: N:Booseapp
+  id: Booseapp
+  children:
+  - Booseapp.AppCanvas
+  - Booseapp.Form1
+  langs:
+  - csharp
+  - vb
+  name: Booseapp
+  nameWithType: Booseapp
+  fullName: Booseapp
+  type: Namespace
+  assemblies:
+  - Booseapp
+references:
+- uid: Booseapp.AppCanvas
+  commentId: T:Booseapp.AppCanvas
+  href: Booseapp.AppCanvas.html
+  name: AppCanvas
+  nameWithType: AppCanvas
+  fullName: Booseapp.AppCanvas
+- uid: Booseapp.Form1
+  commentId: T:Booseapp.Form1
+  href: Booseapp.Form1.html
+  name: Form1
+  nameWithType: Form1
+  fullName: Booseapp.Form1

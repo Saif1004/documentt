@@ -1,0 +1,13 @@
+### YamlMime:TableOfContent
+items:
+- uid: Booseapp
+  name: Booseapp
+  type: Namespace
+  items:
+  - uid: Booseapp.AppCanvas
+    name: AppCanvas
+    type: Class
+  - uid: Booseapp.Form1
+    name: Form1
+    type: Class
+memberLayout: SamePage
