@@ -15,7 +15,7 @@ references:
   nameWithType: AppCanvas
 - uid: Booseapp.AppCanvas.#ctor(System.Int32,System.Int32)
   name: AppCanvas(int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas__ctor_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas__ctor_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.#ctor(System.Int32,System.Int32)
   name.vb: New(Integer, Integer)
   fullName: Booseapp.AppCanvas.AppCanvas(int, int)
@@ -24,7 +24,7 @@ references:
   nameWithType.vb: AppCanvas.New(Integer, Integer)
 - uid: Booseapp.AppCanvas.#ctor*
   name: AppCanvas
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas__ctor_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas__ctor_
   commentId: Overload:Booseapp.AppCanvas.#ctor
   isSpec: "True"
   name.vb: New
@@ -34,7 +34,7 @@ references:
   nameWithType.vb: AppCanvas.New
 - uid: Booseapp.AppCanvas.Circle(System.Int32,System.Boolean)
   name: Circle(int, bool)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Circle_System_Int32_System_Boolean_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Circle_System_Int32_System_Boolean_
   commentId: M:Booseapp.AppCanvas.Circle(System.Int32,System.Boolean)
   name.vb: Circle(Integer, Boolean)
   fullName: Booseapp.AppCanvas.Circle(int, bool)
@@ -43,27 +43,27 @@ references:
   nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
 - uid: Booseapp.AppCanvas.Circle*
   name: Circle
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Circle_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Circle_
   commentId: Overload:Booseapp.AppCanvas.Circle
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Circle
   nameWithType: AppCanvas.Circle
 - uid: Booseapp.AppCanvas.Clear
   name: Clear()
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Clear
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Clear
   commentId: M:Booseapp.AppCanvas.Clear
   fullName: Booseapp.AppCanvas.Clear()
   nameWithType: AppCanvas.Clear()
 - uid: Booseapp.AppCanvas.Clear*
   name: Clear
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Clear_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Clear_
   commentId: Overload:Booseapp.AppCanvas.Clear
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Clear
   nameWithType: AppCanvas.Clear
 - uid: Booseapp.AppCanvas.DrawTo(System.Int32,System.Int32)
   name: DrawTo(int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_DrawTo_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_DrawTo_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.DrawTo(System.Int32,System.Int32)
   name.vb: DrawTo(Integer, Integer)
   fullName: Booseapp.AppCanvas.DrawTo(int, int)
@@ -72,14 +72,14 @@ references:
   nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
 - uid: Booseapp.AppCanvas.DrawTo*
   name: DrawTo
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_DrawTo_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_DrawTo_
   commentId: Overload:Booseapp.AppCanvas.DrawTo
   isSpec: "True"
   fullName: Booseapp.AppCanvas.DrawTo
   nameWithType: AppCanvas.DrawTo
 - uid: Booseapp.AppCanvas.MoveTo(System.Int32,System.Int32)
   name: MoveTo(int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_MoveTo_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_MoveTo_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.MoveTo(System.Int32,System.Int32)
   name.vb: MoveTo(Integer, Integer)
   fullName: Booseapp.AppCanvas.MoveTo(int, int)
@@ -88,27 +88,27 @@ references:
   nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
 - uid: Booseapp.AppCanvas.MoveTo*
   name: MoveTo
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_MoveTo_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_MoveTo_
   commentId: Overload:Booseapp.AppCanvas.MoveTo
   isSpec: "True"
   fullName: Booseapp.AppCanvas.MoveTo
   nameWithType: AppCanvas.MoveTo
 - uid: Booseapp.AppCanvas.PenColour
   name: PenColour
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_PenColour
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_PenColour
   commentId: P:Booseapp.AppCanvas.PenColour
   fullName: Booseapp.AppCanvas.PenColour
   nameWithType: AppCanvas.PenColour
 - uid: Booseapp.AppCanvas.PenColour*
   name: PenColour
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_PenColour_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_PenColour_
   commentId: Overload:Booseapp.AppCanvas.PenColour
   isSpec: "True"
   fullName: Booseapp.AppCanvas.PenColour
   nameWithType: AppCanvas.PenColour
 - uid: Booseapp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
   name: Rect(int, int, bool)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
   commentId: M:Booseapp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
   name.vb: Rect(Integer, Integer, Boolean)
   fullName: Booseapp.AppCanvas.Rect(int, int, bool)
@@ -117,27 +117,27 @@ references:
   nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
 - uid: Booseapp.AppCanvas.Rect*
   name: Rect
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Rect_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Rect_
   commentId: Overload:Booseapp.AppCanvas.Rect
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Rect
   nameWithType: AppCanvas.Rect
 - uid: Booseapp.AppCanvas.Reset
   name: Reset()
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Reset
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Reset
   commentId: M:Booseapp.AppCanvas.Reset
   fullName: Booseapp.AppCanvas.Reset()
   nameWithType: AppCanvas.Reset()
 - uid: Booseapp.AppCanvas.Reset*
   name: Reset
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Reset_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Reset_
   commentId: Overload:Booseapp.AppCanvas.Reset
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Reset
   nameWithType: AppCanvas.Reset
 - uid: Booseapp.AppCanvas.Set(System.Int32,System.Int32)
   name: Set(int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Set_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Set_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.Set(System.Int32,System.Int32)
   name.vb: Set(Integer, Integer)
   fullName: Booseapp.AppCanvas.Set(int, int)
@@ -146,14 +146,14 @@ references:
   nameWithType.vb: AppCanvas.Set(Integer, Integer)
 - uid: Booseapp.AppCanvas.Set*
   name: Set
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Set_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Set_
   commentId: Overload:Booseapp.AppCanvas.Set
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Set
   nameWithType: AppCanvas.Set
 - uid: Booseapp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
   name: SetColour(int, int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
   name.vb: SetColour(Integer, Integer, Integer)
   fullName: Booseapp.AppCanvas.SetColour(int, int, int)
@@ -162,14 +162,14 @@ references:
   nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
 - uid: Booseapp.AppCanvas.SetColour*
   name: SetColour
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_SetColour_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_SetColour_
   commentId: Overload:Booseapp.AppCanvas.SetColour
   isSpec: "True"
   fullName: Booseapp.AppCanvas.SetColour
   nameWithType: AppCanvas.SetColour
 - uid: Booseapp.AppCanvas.Tri(System.Int32,System.Int32)
   name: Tri(int, int)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Tri_System_Int32_System_Int32_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Tri_System_Int32_System_Int32_
   commentId: M:Booseapp.AppCanvas.Tri(System.Int32,System.Int32)
   name.vb: Tri(Integer, Integer)
   fullName: Booseapp.AppCanvas.Tri(int, int)
@@ -178,14 +178,14 @@ references:
   nameWithType.vb: AppCanvas.Tri(Integer, Integer)
 - uid: Booseapp.AppCanvas.Tri*
   name: Tri
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Tri_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Tri_
   commentId: Overload:Booseapp.AppCanvas.Tri
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Tri
   nameWithType: AppCanvas.Tri
 - uid: Booseapp.AppCanvas.WriteText(System.String)
   name: WriteText(string)
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_WriteText_System_String_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_WriteText_System_String_
   commentId: M:Booseapp.AppCanvas.WriteText(System.String)
   name.vb: WriteText(String)
   fullName: Booseapp.AppCanvas.WriteText(string)
@@ -194,46 +194,46 @@ references:
   nameWithType.vb: AppCanvas.WriteText(String)
 - uid: Booseapp.AppCanvas.WriteText*
   name: WriteText
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_WriteText_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_WriteText_
   commentId: Overload:Booseapp.AppCanvas.WriteText
   isSpec: "True"
   fullName: Booseapp.AppCanvas.WriteText
   nameWithType: AppCanvas.WriteText
 - uid: Booseapp.AppCanvas.Xpos
   name: Xpos
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Xpos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Xpos
   commentId: P:Booseapp.AppCanvas.Xpos
   fullName: Booseapp.AppCanvas.Xpos
   nameWithType: AppCanvas.Xpos
 - uid: Booseapp.AppCanvas.Xpos*
   name: Xpos
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Xpos_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Xpos_
   commentId: Overload:Booseapp.AppCanvas.Xpos
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Xpos
   nameWithType: AppCanvas.Xpos
 - uid: Booseapp.AppCanvas.Ypos
   name: Ypos
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Ypos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Ypos
   commentId: P:Booseapp.AppCanvas.Ypos
   fullName: Booseapp.AppCanvas.Ypos
   nameWithType: AppCanvas.Ypos
 - uid: Booseapp.AppCanvas.Ypos*
   name: Ypos
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_Ypos_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Ypos_
   commentId: Overload:Booseapp.AppCanvas.Ypos
   isSpec: "True"
   fullName: Booseapp.AppCanvas.Ypos
   nameWithType: AppCanvas.Ypos
 - uid: Booseapp.AppCanvas.getBitmap
   name: getBitmap()
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_getBitmap
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_getBitmap
   commentId: M:Booseapp.AppCanvas.getBitmap
   fullName: Booseapp.AppCanvas.getBitmap()
   nameWithType: AppCanvas.getBitmap()
 - uid: Booseapp.AppCanvas.getBitmap*
   name: getBitmap
-  href: api/Booseapp.AppCanvas.html#BOOSEapp_AppCanvas_getBitmap_
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_getBitmap_
   commentId: Overload:Booseapp.AppCanvas.getBitmap
   isSpec: "True"
   fullName: Booseapp.AppCanvas.getBitmap
@@ -246,7 +246,7 @@ references:
   nameWithType: AppCommandFactory
 - uid: Booseapp.AppCommandFactory.MakeCommand(System.String)
   name: MakeCommand(string)
-  href: api/Booseapp.AppCommandFactory.html#BOOSEapp_AppCommandFactory_MakeCommand_System_String_
+  href: api/Booseapp.AppCommandFactory.html#Booseapp_AppCommandFactory_MakeCommand_System_String_
   commentId: M:Booseapp.AppCommandFactory.MakeCommand(System.String)
   name.vb: MakeCommand(String)
   fullName: Booseapp.AppCommandFactory.MakeCommand(string)
@@ -255,7 +255,7 @@ references:
   nameWithType.vb: AppCommandFactory.MakeCommand(String)
 - uid: Booseapp.AppCommandFactory.MakeCommand*
   name: MakeCommand
-  href: api/Booseapp.AppCommandFactory.html#BOOSEapp_AppCommandFactory_MakeCommand_
+  href: api/Booseapp.AppCommandFactory.html#Booseapp_AppCommandFactory_MakeCommand_
   commentId: Overload:Booseapp.AppCommandFactory.MakeCommand
   isSpec: "True"
   fullName: Booseapp.AppCommandFactory.MakeCommand
@@ -268,7 +268,7 @@ references:
   nameWithType: Form1
 - uid: Booseapp.Form1.#ctor
   name: Form1()
-  href: api/Booseapp.Form1.html#BOOSEapp_Form1__ctor
+  href: api/Booseapp.Form1.html#Booseapp_Form1__ctor
   commentId: M:Booseapp.Form1.#ctor
   name.vb: New()
   fullName: Booseapp.Form1.Form1()
@@ -277,7 +277,7 @@ references:
   nameWithType.vb: Form1.New()
 - uid: Booseapp.Form1.#ctor*
   name: Form1
-  href: api/Booseapp.Form1.html#BOOSEapp_Form1__ctor_
+  href: api/Booseapp.Form1.html#Booseapp_Form1__ctor_
   commentId: Overload:Booseapp.Form1.#ctor
   isSpec: "True"
   name.vb: New
@@ -287,7 +287,7 @@ references:
   nameWithType.vb: Form1.New
 - uid: Booseapp.Form1.Dispose(System.Boolean)
   name: Dispose(bool)
-  href: api/Booseapp.Form1.html#BOOSEapp_Form1_Dispose_System_Boolean_
+  href: api/Booseapp.Form1.html#Booseapp_Form1_Dispose_System_Boolean_
   commentId: M:Booseapp.Form1.Dispose(System.Boolean)
   name.vb: Dispose(Boolean)
   fullName: Booseapp.Form1.Dispose(bool)
@@ -296,7 +296,7 @@ references:
   nameWithType.vb: Form1.Dispose(Boolean)
 - uid: Booseapp.Form1.Dispose*
   name: Dispose
-  href: api/Booseapp.Form1.html#BOOSEapp_Form1_Dispose_
+  href: api/Booseapp.Form1.html#Booseapp_Form1_Dispose_
   commentId: Overload:Booseapp.Form1.Dispose
   isSpec: "True"
   fullName: Booseapp.Form1.Dispose
@@ -309,7 +309,7 @@ references:
   nameWithType: URCircle
 - uid: Booseapp.URCircle.#ctor
   name: URCircle()
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle__ctor
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle__ctor
   commentId: M:Booseapp.URCircle.#ctor
   name.vb: New()
   fullName: Booseapp.URCircle.URCircle()
@@ -318,7 +318,7 @@ references:
   nameWithType.vb: URCircle.New()
 - uid: Booseapp.URCircle.#ctor(BOOSE.Canvas,System.Int32)
   name: URCircle(Canvas, int)
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle__ctor_BOOSE_Canvas_System_Int32_
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle__ctor_BOOSE_Canvas_System_Int32_
   commentId: M:Booseapp.URCircle.#ctor(BOOSE.Canvas,System.Int32)
   name.vb: New(Canvas, Integer)
   fullName: Booseapp.URCircle.URCircle(BOOSE.Canvas, int)
@@ -327,7 +327,7 @@ references:
   nameWithType.vb: URCircle.New(Canvas, Integer)
 - uid: Booseapp.URCircle.#ctor*
   name: URCircle
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle__ctor_
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle__ctor_
   commentId: Overload:Booseapp.URCircle.#ctor
   isSpec: "True"
   name.vb: New
@@ -337,7 +337,7 @@ references:
   nameWithType.vb: URCircle.New
 - uid: Booseapp.URCircle.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle_CheckParameters_System_String___
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle_CheckParameters_System_String___
   commentId: M:Booseapp.URCircle.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
   fullName: Booseapp.URCircle.CheckParameters(string[])
@@ -346,20 +346,20 @@ references:
   nameWithType.vb: URCircle.CheckParameters(String())
 - uid: Booseapp.URCircle.CheckParameters*
   name: CheckParameters
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle_CheckParameters_
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle_CheckParameters_
   commentId: Overload:Booseapp.URCircle.CheckParameters
   isSpec: "True"
   fullName: Booseapp.URCircle.CheckParameters
   nameWithType: URCircle.CheckParameters
 - uid: Booseapp.URCircle.Execute
   name: Execute()
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle_Execute
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle_Execute
   commentId: M:Booseapp.URCircle.Execute
   fullName: Booseapp.URCircle.Execute()
   nameWithType: URCircle.Execute()
 - uid: Booseapp.URCircle.Execute*
   name: Execute
-  href: api/Booseapp.URCircle.html#BOOSEapp_URCircle_Execute_
+  href: api/Booseapp.URCircle.html#Booseapp_URCircle_Execute_
   commentId: Overload:Booseapp.URCircle.Execute
   isSpec: "True"
   fullName: Booseapp.URCircle.Execute
@@ -372,7 +372,7 @@ references:
   nameWithType: URDrawTo
 - uid: Booseapp.URDrawTo.#ctor
   name: URDrawTo()
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo__ctor
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo__ctor
   commentId: M:Booseapp.URDrawTo.#ctor
   name.vb: New()
   fullName: Booseapp.URDrawTo.URDrawTo()
@@ -381,7 +381,7 @@ references:
   nameWithType.vb: URDrawTo.New()
 - uid: Booseapp.URDrawTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name: URDrawTo(Canvas, int, int)
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
   commentId: M:Booseapp.URDrawTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name.vb: New(Canvas, Integer, Integer)
   fullName: Booseapp.URDrawTo.URDrawTo(BOOSE.Canvas, int, int)
@@ -390,7 +390,7 @@ references:
   nameWithType.vb: URDrawTo.New(Canvas, Integer, Integer)
 - uid: Booseapp.URDrawTo.#ctor*
   name: URDrawTo
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo__ctor_
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo__ctor_
   commentId: Overload:Booseapp.URDrawTo.#ctor
   isSpec: "True"
   name.vb: New
@@ -400,7 +400,7 @@ references:
   nameWithType.vb: URDrawTo.New
 - uid: Booseapp.URDrawTo.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo_CheckParameters_System_String___
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo_CheckParameters_System_String___
   commentId: M:Booseapp.URDrawTo.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
   fullName: Booseapp.URDrawTo.CheckParameters(string[])
@@ -409,20 +409,20 @@ references:
   nameWithType.vb: URDrawTo.CheckParameters(String())
 - uid: Booseapp.URDrawTo.CheckParameters*
   name: CheckParameters
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo_CheckParameters_
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo_CheckParameters_
   commentId: Overload:Booseapp.URDrawTo.CheckParameters
   isSpec: "True"
   fullName: Booseapp.URDrawTo.CheckParameters
   nameWithType: URDrawTo.CheckParameters
 - uid: Booseapp.URDrawTo.Execute
   name: Execute()
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo_Execute
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo_Execute
   commentId: M:Booseapp.URDrawTo.Execute
   fullName: Booseapp.URDrawTo.Execute()
   nameWithType: URDrawTo.Execute()
 - uid: Booseapp.URDrawTo.Execute*
   name: Execute
-  href: api/Booseapp.URDrawTo.html#BOOSEapp_URDrawTo_Execute_
+  href: api/Booseapp.URDrawTo.html#Booseapp_URDrawTo_Execute_
   commentId: Overload:Booseapp.URDrawTo.Execute
   isSpec: "True"
   fullName: Booseapp.URDrawTo.Execute
@@ -435,7 +435,7 @@ references:
   nameWithType: URMoveTo
 - uid: Booseapp.URMoveTo.#ctor
   name: URMoveTo()
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo__ctor
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo__ctor
   commentId: M:Booseapp.URMoveTo.#ctor
   name.vb: New()
   fullName: Booseapp.URMoveTo.URMoveTo()
@@ -444,7 +444,7 @@ references:
   nameWithType.vb: URMoveTo.New()
 - uid: Booseapp.URMoveTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name: URMoveTo(Canvas, int, int)
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
   commentId: M:Booseapp.URMoveTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name.vb: New(Canvas, Integer, Integer)
   fullName: Booseapp.URMoveTo.URMoveTo(BOOSE.Canvas, int, int)
@@ -453,7 +453,7 @@ references:
   nameWithType.vb: URMoveTo.New(Canvas, Integer, Integer)
 - uid: Booseapp.URMoveTo.#ctor*
   name: URMoveTo
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo__ctor_
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo__ctor_
   commentId: Overload:Booseapp.URMoveTo.#ctor
   isSpec: "True"
   name.vb: New
@@ -463,7 +463,7 @@ references:
   nameWithType.vb: URMoveTo.New
 - uid: Booseapp.URMoveTo.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo_CheckParameters_System_String___
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo_CheckParameters_System_String___
   commentId: M:Booseapp.URMoveTo.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
   fullName: Booseapp.URMoveTo.CheckParameters(string[])
@@ -472,20 +472,20 @@ references:
   nameWithType.vb: URMoveTo.CheckParameters(String())
 - uid: Booseapp.URMoveTo.CheckParameters*
   name: CheckParameters
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo_CheckParameters_
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo_CheckParameters_
   commentId: Overload:Booseapp.URMoveTo.CheckParameters
   isSpec: "True"
   fullName: Booseapp.URMoveTo.CheckParameters
   nameWithType: URMoveTo.CheckParameters
 - uid: Booseapp.URMoveTo.Execute
   name: Execute()
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo_Execute
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo_Execute
   commentId: M:Booseapp.URMoveTo.Execute
   fullName: Booseapp.URMoveTo.Execute()
   nameWithType: URMoveTo.Execute()
 - uid: Booseapp.URMoveTo.Execute*
   name: Execute
-  href: api/Booseapp.URMoveTo.html#BOOSEapp_URMoveTo_Execute_
+  href: api/Booseapp.URMoveTo.html#Booseapp_URMoveTo_Execute_
   commentId: Overload:Booseapp.URMoveTo.Execute
   isSpec: "True"
   fullName: Booseapp.URMoveTo.Execute
@@ -498,7 +498,7 @@ references:
   nameWithType: URRect
 - uid: Booseapp.URRect.#ctor
   name: URRect()
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect__ctor
+  href: api/Booseapp.URRect.html#Booseapp_URRect__ctor
   commentId: M:Booseapp.URRect.#ctor
   name.vb: New()
   fullName: Booseapp.URRect.URRect()
@@ -507,7 +507,7 @@ references:
   nameWithType.vb: URRect.New()
 - uid: Booseapp.URRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name: URRect(Canvas, int, int)
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  href: api/Booseapp.URRect.html#Booseapp_URRect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
   commentId: M:Booseapp.URRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name.vb: New(Canvas, Integer, Integer)
   fullName: Booseapp.URRect.URRect(BOOSE.Canvas, int, int)
@@ -516,7 +516,7 @@ references:
   nameWithType.vb: URRect.New(Canvas, Integer, Integer)
 - uid: Booseapp.URRect.#ctor*
   name: URRect
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect__ctor_
+  href: api/Booseapp.URRect.html#Booseapp_URRect__ctor_
   commentId: Overload:Booseapp.URRect.#ctor
   isSpec: "True"
   name.vb: New
@@ -526,7 +526,7 @@ references:
   nameWithType.vb: URRect.New
 - uid: Booseapp.URRect.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect_CheckParameters_System_String___
+  href: api/Booseapp.URRect.html#Booseapp_URRect_CheckParameters_System_String___
   commentId: M:Booseapp.URRect.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
   fullName: Booseapp.URRect.CheckParameters(string[])
@@ -535,20 +535,20 @@ references:
   nameWithType.vb: URRect.CheckParameters(String())
 - uid: Booseapp.URRect.CheckParameters*
   name: CheckParameters
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect_CheckParameters_
+  href: api/Booseapp.URRect.html#Booseapp_URRect_CheckParameters_
   commentId: Overload:Booseapp.URRect.CheckParameters
   isSpec: "True"
   fullName: Booseapp.URRect.CheckParameters
   nameWithType: URRect.CheckParameters
 - uid: Booseapp.URRect.Execute
   name: Execute()
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect_Execute
+  href: api/Booseapp.URRect.html#Booseapp_URRect_Execute
   commentId: M:Booseapp.URRect.Execute
   fullName: Booseapp.URRect.Execute()
   nameWithType: URRect.Execute()
 - uid: Booseapp.URRect.Execute*
   name: Execute
-  href: api/Booseapp.URRect.html#BOOSEapp_URRect_Execute_
+  href: api/Booseapp.URRect.html#Booseapp_URRect_Execute_
   commentId: Overload:Booseapp.URRect.Execute
   isSpec: "True"
   fullName: Booseapp.URRect.Execute
