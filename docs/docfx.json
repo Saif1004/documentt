@@ -17,10 +17,11 @@
     }
   ],
   "build": {
-    "content": [
-      { "files": [ "**/*.{md,yml}" ], "exclude": [ "_site/**" ] },
-      { "files": [ "api/**.yml", "api/index.md" ] }
-    ],
+   "content": [
+  { "files": [ "**/*.md", "toc.yml" ] },
+  { "files": [ "api/**/*.yml", "api/index.md" ] }
+],
+
     "resource": [ { "files": [ "images/**" ] } ],
     "output": "_site",
     "template": [ "default", "modern" ],
