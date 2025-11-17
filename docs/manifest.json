@@ -1,5 +1,5 @@
 {
-  "source_base_path": "C:/Users/Sarbuland/source/documentation",
+  "source_base_path": "C:/Users/Saif/source/documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -12,114 +12,114 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.AppCanvas.yml",
+      "source_relative_path": "api/Booseapp.AppCanvas.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.AppCanvas.html"
+          "relative_path": "api/Booseapp.AppCanvas.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.AppCanvas",
+      "Title": "Booseapp.AppCanvas",
       "Summary": null
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.AppCommandFactory.yml",
+      "source_relative_path": "api/Booseapp.AppCommandFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.AppCommandFactory.html"
+          "relative_path": "api/Booseapp.AppCommandFactory.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.AppCommandFactory",
-      "Summary": "<p sourcefile=\"api/BOOSEapp.AppCommandFactory.yml\" sourcestartlinenumber=\"1\">Custom command factory for BOOSEApp.\nReturns unrestricted command versions for drawing operations.</p>\n"
+      "Title": "Booseapp.AppCommandFactory",
+      "Summary": "<p sourcefile=\"api/Booseapp.AppCommandFactory.yml\" sourcestartlinenumber=\"1\">Custom command factory for Booseapp.\nReturns unrestricted command versions for drawing operations.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.Form1.yml",
+      "source_relative_path": "api/Booseapp.Form1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.Form1.html"
+          "relative_path": "api/Booseapp.Form1.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.Form1",
+      "Title": "Booseapp.Form1",
       "Summary": null
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.URCircle.yml",
+      "source_relative_path": "api/Booseapp.URCircle.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.URCircle.html"
+          "relative_path": "api/Booseapp.URCircle.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.URCircle",
-      "Summary": "<p sourcefile=\"api/BOOSEapp.URCircle.yml\" sourcestartlinenumber=\"1\">Unrestricted Circle command — removes radius validation from AppCircle.</p>\n"
+      "Title": "Booseapp.URCircle",
+      "Summary": "<p sourcefile=\"api/Booseapp.URCircle.yml\" sourcestartlinenumber=\"1\">Unrestricted Circle command — removes radius validation from AppCircle.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.URDrawTo.yml",
+      "source_relative_path": "api/Booseapp.URDrawTo.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.URDrawTo.html"
+          "relative_path": "api/Booseapp.URDrawTo.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.URDrawTo",
-      "Summary": "<p sourcefile=\"api/BOOSEapp.URDrawTo.yml\" sourcestartlinenumber=\"1\">Unrestricted DrawTo command – allows drawing lines to any coordinates without restriction.</p>\n"
+      "Title": "Booseapp.URDrawTo",
+      "Summary": "<p sourcefile=\"api/Booseapp.URDrawTo.yml\" sourcestartlinenumber=\"1\">Unrestricted DrawTo command – allows drawing lines to any coordinates without restriction.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.URMoveTo.yml",
+      "source_relative_path": "api/Booseapp.URMoveTo.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.URMoveTo.html"
+          "relative_path": "api/Booseapp.URMoveTo.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.URMoveTo",
-      "Summary": "<p sourcefile=\"api/BOOSEapp.URMoveTo.yml\" sourcestartlinenumber=\"1\">Unrestricted MoveTo command – allows movement to any coordinates without canvas boundary limits.</p>\n"
+      "Title": "Booseapp.URMoveTo",
+      "Summary": "<p sourcefile=\"api/Booseapp.URMoveTo.yml\" sourcestartlinenumber=\"1\">Unrestricted MoveTo command – allows movement to any coordinates without canvas boundary limits.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.URRect.yml",
+      "source_relative_path": "api/Booseapp.URRect.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.URRect.html"
+          "relative_path": "api/Booseapp.URRect.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp.URRect",
-      "Summary": "<p sourcefile=\"api/BOOSEapp.URRect.yml\" sourcestartlinenumber=\"1\">Unrestricted Rectangle command – removes size restrictions from AppRect.</p>\n"
+      "Title": "Booseapp.URRect",
+      "Summary": "<p sourcefile=\"api/Booseapp.URRect.yml\" sourcestartlinenumber=\"1\">Unrestricted Rectangle command – removes size restrictions from AppRect.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BOOSEapp.yml",
+      "source_relative_path": "api/Booseapp.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BOOSEapp.html"
+          "relative_path": "api/Booseapp.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BOOSEapp",
+      "Title": "Booseapp",
       "Summary": null
     },
     {
